@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "designVersion": "0.2.0",
+  "compilerVersion": "0.1.0",
+  "inputHash": "677c3003409f405a885b9cad88783ae302a172a76918871b83024a10ddb8e813",
+  "sourceRepository": "https://github.com/0froq/lig",
+  "sourceRef": "preview-ports-2026-10-04.1",
+  "variants": [
+    "light",
+    "dark",
+    "light-soft",
+    "dark-soft"
+  ],
+  "colorPolicy": "srgb-constant-lh-chroma-reduce",
+  "port": "vscode",
+  "packageVersion": "0.0.1",
+  "files": {
+    "package.json": "0508a988bd267225d838046da332221afabc5489a950c4cdb0e321d9e2da0196",
+    "themes/lig-light.json": "5233e83ce9684d96689643087f607d4c54046eec2ebe8c8899ccdbb85782b1af",
+    "themes/lig-dark.json": "c07fa422db97d4f6aac2a5b6b740b28c59524589fe6810ce55259224c0f5278e",
+    "themes/lig-light-soft.json": "b3f01487a409b8c508b4fd1b6fd875c60cbcb50a6284ded96565989db4f630c5",
+    "themes/lig-dark-soft.json": "6d93c6baf6fd47a051a598e631f8520b7723b09128931d139eeab7f6d5cc1122",
+    "LICENSE.md": "81b60d62a5e07d39c8205ddc1661a6e3e3b82b0365c10f7798110084bd6c6d1f",
+    "README.md": "67fde67fda41b778df79a01e10f537cbe851e49d635a966cee2e42ba365af0b8",
+    ".vscodeignore": "04bae36675e66a20c14b7548e109addfd43d70b5199b62b553b9108de3f42a82"
+  },
+  "coverage": {
+    "syntax": [
+      "TextMate",
+      "semantic tokens"
+    ],
+    "runtime": "declarative JSON"
+  }
+}

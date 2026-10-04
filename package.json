@@ -1,0 +1,42 @@
+{
+  "name": "theme-lig-preview",
+  "displayName": "LiG Preview",
+  "publisher": "froQ",
+  "version": "0.0.1",
+  "description": "Preview of the unified OKLCH LiG theme ports",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.107.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0froq/vscode-theme-LiG-preview"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "LiG Preview Light",
+        "uiTheme": "vs",
+        "path": "./themes/lig-light.json"
+      },
+      {
+        "label": "LiG Preview Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lig-dark.json"
+      },
+      {
+        "label": "LiG Preview Light Soft",
+        "uiTheme": "vs",
+        "path": "./themes/lig-light-soft.json"
+      },
+      {
+        "label": "LiG Preview Dark Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lig-dark-soft.json"
+      }
+    ]
+  }
+}
