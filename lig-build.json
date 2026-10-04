@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "designVersion": "0.2.0",
-  "compilerVersion": "0.1.0",
-  "inputHash": "677c3003409f405a885b9cad88783ae302a172a76918871b83024a10ddb8e813",
+  "compilerVersion": "0.2.0",
+  "inputHash": "8886a35874a44bb060b34926d21e7088314f9946a415951bee5f79c96995492b",
   "sourceRepository": "https://github.com/0froq/lig",
-  "sourceRef": "preview-ports-2026-10-04.1",
+  "sourceRef": "preview-ports-2026-10-04.2",
   "variants": [
     "light",
     "dark",
@@ -13,15 +13,15 @@
   ],
   "colorPolicy": "srgb-constant-lh-chroma-reduce",
   "port": "vscode",
-  "packageVersion": "0.0.1",
+  "packageVersion": "0.0.2",
   "files": {
-    "package.json": "0508a988bd267225d838046da332221afabc5489a950c4cdb0e321d9e2da0196",
+    "package.json": "dc661d5445548087fb466b47f7fe6d0e3955ee41a2e9a49a1475970f01479810",
     "themes/lig-light.json": "5233e83ce9684d96689643087f607d4c54046eec2ebe8c8899ccdbb85782b1af",
     "themes/lig-dark.json": "c07fa422db97d4f6aac2a5b6b740b28c59524589fe6810ce55259224c0f5278e",
     "themes/lig-light-soft.json": "b3f01487a409b8c508b4fd1b6fd875c60cbcb50a6284ded96565989db4f630c5",
     "themes/lig-dark-soft.json": "6d93c6baf6fd47a051a598e631f8520b7723b09128931d139eeab7f6d5cc1122",
     "LICENSE.md": "81b60d62a5e07d39c8205ddc1661a6e3e3b82b0365c10f7798110084bd6c6d1f",
-    "README.md": "67fde67fda41b778df79a01e10f537cbe851e49d635a966cee2e42ba365af0b8",
+    "README.md": "8e7f22acf89e46db2092c0f5050d4b0469eff4613ab065cc0ae56ded55e85458",
     ".vscodeignore": "04bae36675e66a20c14b7548e109addfd43d70b5199b62b553b9108de3f42a82"
   },
   "coverage": {

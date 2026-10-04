@@ -6,7 +6,7 @@
 ## 安装（MacBook 的 VS Code）
 
 ```sh
-curl -fL https://github.com/0froq/vscode-theme-LiG-preview/releases/download/preview-2026-10-04.1/theme-lig-preview-0.0.1.vsix -o /tmp/theme-lig-preview.vsix
+curl -fL https://github.com/0froq/vscode-theme-LiG-preview/releases/download/preview-2026-10-04.2/theme-lig-preview-0.0.2.vsix -o /tmp/theme-lig-preview.vsix
 code --install-extension /tmp/theme-lig-preview.vsix
 ```
 
@@ -26,10 +26,10 @@ Extension ID 是 `froQ.theme-lig-preview`，与现有 `froQ.theme-lig` 独立。
 
 ## 单一事实源
 
-请在 [LiG source snapshot](https://github.com/0froq/lig/tree/preview-ports-2026-10-04.1) 修改 design/core/compiler；不要手改这里的 generated 文件。
+请在 [LiG source snapshot](https://github.com/0froq/lig/tree/preview-ports-2026-10-04.2) 修改 design/core/compiler；不要手改这里的 generated 文件。
 
 Design version: 0.2.0
-Compiler version: 0.1.0
-Input SHA-256: `677c3003409f405a885b9cad88783ae302a172a76918871b83024a10ddb8e813`
+Compiler version: 0.2.0
+Input SHA-256: `8886a35874a44bb060b34926d21e7088314f9946a415951bee5f79c96995492b`
 
 `lig-build.json` 包含该 repo 的每个文件 checksum。Preview 是静态 native 产物，安装时无需 Node，也不会从网络加载 tokens。

@@ -2,7 +2,7 @@
   "name": "theme-lig-preview",
   "displayName": "LiG Preview",
   "publisher": "froQ",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Preview of the unified OKLCH LiG theme ports",
   "license": "MIT",
   "engines": {
